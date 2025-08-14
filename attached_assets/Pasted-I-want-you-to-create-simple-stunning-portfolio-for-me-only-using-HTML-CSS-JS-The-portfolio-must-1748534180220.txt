@@ -1,0 +1,28 @@
+I want you to create simple & stunning portfolio for me only using HTML,CSS & JS. The portfolio must contain the following information.
+My name is Ajmeri Aamir. I’m a fresher in “Cloud Computing, AWS services, Azure,GCP”. 
+A place to display my profile picture. 
+A separate section to show my skills in percentage & visual graphical representation. I’m skilled with HTML5(80%), CSS3(75%), JS(60,Bootstrap(80%),wordpress(75%) for frontend development.
+I have a good command on the following programming languages 
+C/C++(60%), JS(60%), python(pursuing).
+I have also a good command on problem solving skill.
+I have good knowledge about visual studio, wordpress, git & github, Microsoft-officel, mysql, mysql server management & configuration.
+As a cloud architect I’m aspiring “Cloud Computing, AWS services, Azure, GCP” & “Networking Fundamentals”.
+  
+Please create a separate section to show my education qualification.
+Education qualification should contain the following information
+I’ve passed my 10th class “SSC” with “50%” in Gujarat Secondary Education Board in 2018.
+I’ve passed my 12th class “HSC” with “50%” in Gujarat Higher Secondary Education Board in 2021.
+I’ve passed “BCA” with “60%” from Gujarat University in 2024.
+I am currently pursuing “M.Sc. I.T. IMS (Infrastructure of Management System) & Cloud Technology” from Gujarat University. 
+Please create a separate section to display my project with its thumbnail, short description and two icon buttons to redirect on my project live version and github repos. For now put 5 to 6 dummy projects with thumbnail & description   
+The following is my contact information & some social media links.
+Name : Ajmeri Aamir 
+Email: aamirajmeri88@gmail.com
+Contact no.: +91 99786 88413
+Nationality: Indian [Ahmedabad, Gujarat]
+Linkedin: linkedin.com/@aamir
+Github: github.com/aamirajmeri88.io
+Twitter: twitter.com/@aamir
+Please generate about me content from all the above information & display it on hero section.
+Please make sure my portfolio is in single page & only using html, css & js.
+
